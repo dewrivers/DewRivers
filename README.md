@@ -10,10 +10,11 @@ const Dew = () => {
 
 
 ---
-### 💻 What am currently working on 
+### Languages
 
 ---
-### 🛠 Tools
+### Tools
+
 
 ---
 ### 💻 What am currently working on
