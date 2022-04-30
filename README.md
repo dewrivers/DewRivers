@@ -24,7 +24,8 @@ const Dew = () => {
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Node-000000?style=flat&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![Npm](https://img.shields.io/badge/-Npm-000000?style=flat&logo=npm)
 ---
 
 
