@@ -1,5 +1,7 @@
 ![Blue Pink Gradient Fashion Banner (1)](https://user-images.githubusercontent.com/66441544/166089911-4d66322f-b9e2-4d9d-a794-0baad8557dae.jpg)
 
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 ```js
 const Dew = () => {
    pronouns: "she" | "her",
