@@ -9,19 +9,20 @@ const Dew = () => {
 ```
 
 ---
-### 📫 Where to find me
-<!-- [<img align="left" alt="Oficial_Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] -->
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="Facebook" width="22px" src="https://www.facebook.com/rocio.rios.589/npm/simple-icons@v3/icons/facebook.svg" />]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+### 
 
+<h2 align="center">📫 Where to find me</h2>
+<p align="center">
 
-<br /> 
+<a href="https://www.instagram.com/rosseo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
+<a href="https://dev.to/rutvikj77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rutvikj77" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rutvikjoshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rutvikjoshi" height="30" width="40" /></a>
+<a href="https://www.behance.net/rutvikj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="rutvikj" height="30" width="40" /></a>
+<a href="https://medium.com/@rutvikj77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rutvikj77" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/OrionRJ7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="OrionRJ7" height="30" width="40" /></a>
+</p>
 
 ---
-
-### 💼 Where am currently working at/as
-
 ### 💻 What am currently working on
 
 
