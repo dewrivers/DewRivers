@@ -1,6 +1,6 @@
 ![Blue Pink Gradient Fashion Banner (1)](https://user-images.githubusercontent.com/66441544/166089911-4d66322f-b9e2-4d9d-a794-0baad8557dae.jpg)
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center"> hey there❕ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 ```js
 const Dew = () => {
@@ -14,6 +14,7 @@ const Dew = () => {
 ---
 ### Languages
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 ---
 ### Tools
 
