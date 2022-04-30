@@ -1,14 +1,12 @@
-### Hi there 👋
-
 ![Blue Pink Gradient Fashion Banner (1)](https://user-images.githubusercontent.com/66441544/166089911-4d66322f-b9e2-4d9d-a794-0baad8557dae.jpg)
 
-'''js
+```js
 const Dew = () => {
    pronouns: "she" | "her",
    code: [JavaScript, HTML, CSS],
    tools: [React, Node, Bootstrap, npm],
 }
-'''
+```
 
 ---
 ### 💼 Where am currently working at/as
