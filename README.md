@@ -31,9 +31,10 @@ const Dew = () => {
 
 
 ---
-### 💻 What am currently working on
+### 
 
-
+- 💻  Currently working on designing and customizing front & back-end websites for small businesses.
+- 
 
 - I’m currently working on  ...
 - 🌱 I’m currently learning ...
@@ -44,7 +45,7 @@ const Dew = () => {
 -->
 
 ---
-<h3 align="center">📫 Where to find me</h3>
+<h3 align="center">🙃 find me👇</h3>
 <p align="center">
 <a href="https://www.instagram.com/rosseo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rocio.rios.589" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
