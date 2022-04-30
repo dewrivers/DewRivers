@@ -13,16 +13,9 @@ const Dew = () => {
 ### 💻 What am currently working on 
 
 ---
-<h2 align="center">📫 Where to find me</h2>
-<p align="center">
-<a href="https://www.instagram.com/rosseo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rocio.rios.589" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
-<!-- <a href=" " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rutvik_dev.desg" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/rocio-bautista-120a551a2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
-</p>
+### 🛠 Tools
 
-
-
+---
 ### 💻 What am currently working on
 
 
@@ -36,3 +29,16 @@ const Dew = () => {
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+<h2 align="center">📫 Where to find me</h2>
+<p align="center">
+<a href="https://www.instagram.com/rosseo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rocio.rios.589" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
+<!-- <a href=" " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rutvik_dev.desg" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/rocio-bautista-120a551a2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
+</p>
+
+
+
+
