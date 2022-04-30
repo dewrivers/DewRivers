@@ -6,8 +6,8 @@
 ```js
 const Dew = () => {
    pronouns: "she" | "her",
-   code: [JavaScript, HTML, CSS],
-   tools: [React, Node, Bootstrap],
+   code: YES,
+   tools: [read, run, meditation, music, learn, work, dance, drawing,]
 }
 ```
 
