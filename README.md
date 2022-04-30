@@ -23,6 +23,7 @@ const Dew = () => {
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ---
 
 
