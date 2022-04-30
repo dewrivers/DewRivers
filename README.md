@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+![Blue Pink Gradient Fashion Banner (1)](https://user-images.githubusercontent.com/66441544/166089911-4d66322f-b9e2-4d9d-a794-0baad8557dae.jpg)
+
 **dewrivers/dewrivers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
