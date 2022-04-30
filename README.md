@@ -4,7 +4,7 @@
 const Dew = () => {
    pronouns: "she" | "her",
    code: [JavaScript, HTML, CSS],
-   tools: [React, Node, Bootstrap, npm],
+   tools: [React, Node, Bootstrap],
 }
 ```
 
