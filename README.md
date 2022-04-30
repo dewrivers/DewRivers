@@ -13,8 +13,9 @@ const Dew = () => {
 
 <h2 align="center">📫 Where to find me</h2>
 <p align="center">
-
 <a href="https://www.instagram.com/rosseo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
+   <a href="https://www.instagram.com/rosseo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
+   
 <a href="https://dev.to/rutvikj77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rutvikj77" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rutvikjoshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rutvikjoshi" height="30" width="40" /></a>
 <a href="https://www.behance.net/rutvikj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="rutvikj" height="30" width="40" /></a>
