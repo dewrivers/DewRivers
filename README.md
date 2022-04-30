@@ -13,11 +13,19 @@ const Dew = () => {
 
 
 ---
-### Languages
+### Languages & Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
 ---
-### Tools
+
 
 
 ---
