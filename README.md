@@ -33,7 +33,7 @@ const Dew = () => {
 ---
 
 - 💻  Currently working on designing and customizing front & back-end websites for small businesses.
-- 🌱 I’m currently learning marketing & advertisment.
+- 🌱 I’m currently learning marketing & advertising.
 - 👯 I’m looking to collaborate on anything to help you solve your problems in the cyber world.
 - ⚡ Fun fact: The green code in The Matrix was actually created from symbols in the code designer’s wife’s sushi cookbook.
 
